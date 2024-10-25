@@ -12,6 +12,7 @@ public class Loudspeaker  extends Sound{
        this.loudspeaker = loudspeaker;
    }
 
+
     @Override
     public void displayInfo() {
         super.displayInfo();

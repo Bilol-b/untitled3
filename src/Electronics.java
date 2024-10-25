@@ -9,6 +9,7 @@ public class Electronics {
         return turi;
     }
 
+
     public void setTur(boolean turi) {
         this.turi = turi;
     }

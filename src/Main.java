@@ -13,6 +13,7 @@ public class Main {
 
 
 
+
       PC pc = new PC(true,false," Stol kompyuteri");
       Laptop laptop = new Laptop(true,true,"Laptop");
       Subwoofer subwoofer = new Subwoofer(false,"Musiqa qurilmasi ","Bas berish uchun");

@@ -14,6 +14,7 @@ public class Doctor {
         }
 
 
+
         public void setName(String name) {
             this.name = name;
         }

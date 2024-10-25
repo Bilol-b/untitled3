@@ -13,6 +13,7 @@ public class Lor extends Doctor{
         return kasbi;
     }
 
+
     public void setKasbi(String kasbi) {
         this.kasbi = kasbi;
     }

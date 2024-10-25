@@ -14,6 +14,7 @@ public class PC extends Compyuters {
         this.pc = pc;
     }
 
+
     @Override
     public void displayInfo() {
         super.displayInfo();

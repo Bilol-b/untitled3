@@ -10,6 +10,7 @@ public class Laptop extends Compyuters {
         return laptop;
     }
 
+
     public void setLaptop(String laptop) {
         this.laptop = laptop;
     }

@@ -15,6 +15,7 @@ public class Sound extends Electronics{
         this.funksiyasi = funksiyasi;
     }
 
+
     @Override
     public void displayInfo() {
         super.displayInfo();

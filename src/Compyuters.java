@@ -2,6 +2,7 @@ public class Compyuters extends Electronics{
     private boolean power;
 
 
+
     public Compyuters(boolean turi, boolean power) {
         super(turi);
         this.power = power;
