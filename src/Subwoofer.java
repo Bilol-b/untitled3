@@ -16,5 +16,6 @@ public class Subwoofer extends Sound {
     public void displayInfo() {
         super.displayInfo();
         System.out.println(subwoofer);
+
     }
 }

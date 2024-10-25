@@ -15,5 +15,6 @@ public class Electronics {
     public void displayInfo(){
         String tur = turi ? "aqillim mashina" : "Ovoz qurilmasi";
         System.out.println("Qurilma turi; " + tur);
+
     }
 }

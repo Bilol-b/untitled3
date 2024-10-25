@@ -2,6 +2,8 @@ public class Lor extends Doctor{
   public String kasbi;
 
 
+
+
     public Lor(String name, int age, String mutaxasisligi, String kasbi) {
         super(name, age, mutaxasisligi);
         this.kasbi = kasbi;

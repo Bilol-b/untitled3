@@ -18,5 +18,6 @@ public class Laptop extends Compyuters {
         super.displayInfo();
         System.out.println(laptop);
 
+
     }
 }

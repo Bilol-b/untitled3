@@ -7,6 +7,7 @@ public class Compyuters extends Electronics{
         this.power = power;
     }
 
+
     public boolean isPower() {
         return power;
     }

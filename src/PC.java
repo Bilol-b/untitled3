@@ -18,5 +18,6 @@ public class PC extends Compyuters {
     public void displayInfo() {
         super.displayInfo();
         System.out.println(pc);
+
     }
 }

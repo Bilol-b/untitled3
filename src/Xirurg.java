@@ -7,6 +7,7 @@
             this.jarroxlikTuri = jarroxlikTuri;
         }
 
+
         public String getSurgeryType() {
             return jarroxlikTuri;
         }

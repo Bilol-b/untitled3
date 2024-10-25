@@ -1,6 +1,7 @@
 public class Sound extends Electronics{
     private String funksiyasi;
 
+
     public Sound(boolean turi, String funksiyasi) {
         super(turi);
         this.funksiyasi = funksiyasi;
